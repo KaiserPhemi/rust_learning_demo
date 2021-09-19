@@ -1,7 +1,0 @@
-[package]
-name = "rustDemo"
-version = "0.1.0"
-authors = ["KaiserPhemi <oluwafemi.akinwa@andela.com>"]
-
-[dependencies]
-  
