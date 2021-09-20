@@ -4,4 +4,6 @@ pub fn run(){
   if age>=4 {
     println!("Grow the fuck up");
   } else {println!("Old enough")}
+
+
 }
